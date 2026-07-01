@@ -14,3 +14,7 @@ There are much more math formulas used in the learning process, but these are th
 ## Learning Resources:
 * [GeeksforGeeks - Backpropagation in Neural Networks](https://www.geeksforgeeks.org/machine-learning/backpropagation-in-neural-network/) 
 * [GeeksforGeeks - PReLU Activation Function](https://www.geeksforgeeks.org/deep-learning/relu-activation-function-in-deep-learning/)
+
+
+## Where can I start?
+To start, you need to install the official release setup from release tab or through [this](https://github.com/anatoliesir/xor-neural-network-cs/releases/tag/v1.0.0) link.
